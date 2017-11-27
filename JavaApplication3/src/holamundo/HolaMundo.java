@@ -23,6 +23,7 @@ public class HolaMundo {
         System.out.println("Hola Mundo"));
         System.out.println("Hola Mundo"));
         System.out.println("Hola Mundo"));
+        System.out.println("Hola Mundo"));
         rB=ResourceBundle.getBundle("holamundo.EN");
         System.out.println(rF.getString("etiqueta1"));
         rF=ResourceBundle.getBundle("holamundo.FR");
