@@ -19,11 +19,11 @@ public class HolaMundo {
     public static void main(String[] args) {
         // TODO code application logic here
         ResourceBundle rB,rF;
-        System.out.println("Hola Mundo"));
-        System.out.println("Hola Mundo"));
-        System.out.println("Hola Mundo"));
-        System.out.println("Hola Mundo"));
-        System.out.println("Hola Mundo"));
+        System.out.println("Hola Mundo");
+        System.out.println("Hola Mundo");
+        System.out.println("Hola Mundo");
+        System.out.println("Hola Mundo");
+        System.out.println("Hola Mundo");
         rB=ResourceBundle.getBundle("holamundo.EN");
         System.out.println(rF.getString("etiqueta1"));
         rF=ResourceBundle.getBundle("holamundo.FR");
